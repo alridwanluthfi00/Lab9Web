@@ -51,3 +51,7 @@
     <p>Ini adalah bagian content dari halaman.</p>
     </div>
     <?php require('footer.php'); ?>
+    
+ # Berikut adalah tampilan dari home.php :
+ 
+ ![1 - Home](https://user-images.githubusercontent.com/73066008/171527079-df8918cd-e044-49cd-a2c7-4d67af4cb2ff.png)
